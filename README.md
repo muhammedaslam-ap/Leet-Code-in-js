@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0001-two-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0001-two-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Tree
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0412-fizz-buzz) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Simulation
 |  |
 | ------- |
