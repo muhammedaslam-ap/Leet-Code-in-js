@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Tree
 |  |
