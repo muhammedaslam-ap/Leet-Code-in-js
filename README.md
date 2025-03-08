@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
