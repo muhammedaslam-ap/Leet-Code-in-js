@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3324-split-the-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3324-split-the-array) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0782-jewels-and-stones) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
