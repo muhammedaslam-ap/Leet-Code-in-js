@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1168-duplicate-zeros](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
