@@ -8,7 +8,7 @@ var average = function(salary) {
     let max =Math.max(...salary)
     let min =Math.min(...salary)
     for(i of salary){
-       if(i!=min || i!=max){
+       if(i!=min && i!=max){
         avg+=i
         count++
        }
