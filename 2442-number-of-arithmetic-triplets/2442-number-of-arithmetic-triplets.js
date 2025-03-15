@@ -8,9 +8,7 @@ var arithmeticTriplets = function(nums, diff) {
     for(i=0;i<nums.length;i++){
          for(j=i+1;j<nums.length;j++){
             for(k=j+1;k<nums.length;k++){
-                if(nums[j] - nums[i] == diff && nums[k] - nums[j] == diff){
-                    count++
-                }
+            if(nums[j] - nums[i] == diff && nums[k] - nums[j] == diff)count++
         }
     }
     }
