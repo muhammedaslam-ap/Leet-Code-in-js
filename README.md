@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0782-jewels-and-stones) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3636-check-balanced-string](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |
 | ------- |
