@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2308-divide-array-into-equal-pairs](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2442-number-of-arithmetic-triplets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2561-number-of-distinct-averages](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2561-number-of-distinct-averages) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0782-jewels-and-stones) |
+| [2308-divide-array-into-equal-pairs](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0476-number-complement) |
+| [2308-divide-array-into-equal-pairs](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2308-divide-array-into-equal-pairs) |
 | [3324-split-the-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3324-split-the-array) |
 ## Enumeration
 |  |
