@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2442-number-of-arithmetic-triplets) |
+| [2478-longest-nice-subarray](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2478-longest-nice-subarray) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2561-number-of-distinct-averages](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0476-number-complement](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0476-number-complement) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2442-number-of-arithmetic-triplets) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
