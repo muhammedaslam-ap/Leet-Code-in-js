@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0035-search-insert-position) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0682-baseball-game) |
 | [1168-duplicate-zeros](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1168-duplicate-zeros) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2478-longest-nice-subarray) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
