@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0782-jewels-and-stones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0125-valid-palindrome) |
 | [1168-duplicate-zeros](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1168-duplicate-zeros) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2442-number-of-arithmetic-triplets) |
