@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0278-first-bad-version) |
 ## Counting
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0682-baseball-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
