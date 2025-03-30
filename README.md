@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0412-fizz-buzz) |
+| [1274-number-of-days-between-two-dates](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1274-number-of-days-between-two-dates) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## String
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0782-jewels-and-stones) |
+| [1274-number-of-days-between-two-dates](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1274-number-of-days-between-two-dates) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3636-check-balanced-string](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3636-check-balanced-string) |
