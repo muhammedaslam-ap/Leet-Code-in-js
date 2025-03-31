@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2561-number-of-distinct-averages](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3194-find-words-containing-character](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3194-find-words-containing-character) |
 | [3324-split-the-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1274-number-of-days-between-two-dates) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3194-find-words-containing-character](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3194-find-words-containing-character) |
 | [3636-check-balanced-string](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |
