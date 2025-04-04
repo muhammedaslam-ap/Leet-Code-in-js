@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1274-number-of-days-between-two-dates) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2365-percentage-of-letter-in-string](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2365-percentage-of-letter-in-string) |
 | [3194-find-words-containing-character](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3194-find-words-containing-character) |
 | [3636-check-balanced-string](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/3636-check-balanced-string) |
 ## Simulation
