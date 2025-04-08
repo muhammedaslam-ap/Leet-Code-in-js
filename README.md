@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -139,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
