@@ -4,7 +4,7 @@
  */
 var trimMean = function(arr) {
   let sort = arr.sort((a,b)=>a-b)
-    let trim = Math.floor(arr.length*5/100)
+    let trim = Math.floor(arr.length*0.05)
     let newArr = []
     newArr=(arr.slice(trim,arr.length-trim))
     
