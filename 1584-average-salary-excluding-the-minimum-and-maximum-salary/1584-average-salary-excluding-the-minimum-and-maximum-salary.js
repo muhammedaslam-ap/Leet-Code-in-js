@@ -2,17 +2,20 @@
  * @param {number[]} salary
  * @return {number}
  */
-var average = function(salary) {
-     let avg = 0
-    let count = 0
-    let max =Math.max(...salary)
-    let min =Math.min(...salary)
-    for(i of salary){
-       if(i!=min && i!=max){
-        avg+=i
-        count++
-       }
+var average = function (salary) {
+    let min = Math.min(...salary)
+    let max = Math.max(...salary)
+    let arr = []
+    for (i = 0; i < salary.length; i++) {
+        if (salary[i] !== min) {
+            if (salary[i] !== max) {
+                arr.push(salary[i])
+            }
+        }
     }
 
-    return avg/count
+    let sum = arr.reduce((acc, curr) => {
+        return acc += curr
+    }, 0)
+    return sum / arr.length
 };
