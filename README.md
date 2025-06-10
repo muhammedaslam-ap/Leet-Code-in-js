@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0682-baseball-game) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0782-jewels-and-stones) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0217-contains-duplicate) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2561-number-of-distinct-averages](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2561-number-of-distinct-averages) |
