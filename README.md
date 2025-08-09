@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0782-jewels-and-stones) |
 | [1274-number-of-days-between-two-dates](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1274-number-of-days-between-two-dates) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2365-percentage-of-letter-in-string](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2365-percentage-of-letter-in-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0125-valid-palindrome) |
 | [1168-duplicate-zeros](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1168-duplicate-zeros) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2561-number-of-distinct-averages) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
