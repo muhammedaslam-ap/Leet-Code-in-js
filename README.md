@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2442-number-of-arithmetic-triplets) |
 | [2478-longest-nice-subarray](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2478-longest-nice-subarray) |
+| [2529-range-product-queries-of-powers](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2529-range-product-queries-of-powers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2561-number-of-distinct-averages](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0476-number-complement) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2478-longest-nice-subarray) |
+| [2529-range-product-queries-of-powers](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2529-range-product-queries-of-powers) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/0084-largest-rectangle-in-histogram) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/muhammedaslam-ap/Leet-Code-in-js/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
